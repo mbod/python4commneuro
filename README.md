@@ -25,6 +25,7 @@ analyze data. These basics are then applied to:
 * processing Qualtrics survey files
 * processing log files from PsychoPy
 * working with CSV files using Pandas
+* using regular expressions to match strings
 * plotting graphs with Matplotlib and Seaborn
 * working with matrices using NumPy
 * working with Matlab files using scipy.io
@@ -38,5 +39,23 @@ analyze data. These basics are then applied to:
 * How do I do X in Python that I do with Y in R/Matlab?
 
 
-** OTHER THINGS??? ** - let me know what you want to cover!
+* **OTHER THINGS???** - let me know what you want to cover!
+
+
+### Using Python
+
+
+* We will cover using Python in a number of different ways:
+
+1. PsychoPy
+	* download the latest *Python3* version from https://github.com/psychopy/psychopy/releases
+
+2. Jupyter Notebooks
+	* on fmrisrv[12].asc.upenn.edu
+	* locally (with Anaconda3)
+		* download the Python3 version from https://www.anaconda.com/download/#macos
+
+3. JupyterLab
+
+4. Scripts from the command line
 

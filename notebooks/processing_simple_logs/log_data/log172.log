@@ -1,0 +1,172 @@
+10.1794 	DATA 	*** EVENT:start_task CODE:10 ***	
+10.1803 	DATA 	*** EVENT:start_instructions CODE:30 ***	
+10.1803 	DATA 	Showing instruction screen 1	
+22.5695 	DATA 	Keypress: space
+22.5702 	DATA 	Showing instruction screen 2	
+29.7921 	DATA 	Keypress: space
+29.7922 	DATA 	Showing instruction screen 3	
+38.0219 	DATA 	Keypress: space
+38.0221 	DATA 	*** EVENT:end_instructions CODE:31 ***	
+38.0278 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+43.0441 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+45.3100 	DATA 	VIDEO START a2d13h.mp4 dur 7.08	
+45.3100 	DATA 	*** MESSAGE:Showing a2d13h.mp4 dur 7.08 EVENT:start_video CODE:60 ***	
+52.4296 	DATA 	*** EVENT:end_video CODE:61 ***	
+52.4302 	DATA 	VIDEO END a2d13h.mp4	
+52.4627 	DATA 	*** EVENT:get_rating CODE:70 ***	
+57.4718 	DATA 	Keypress: 4
+57.4719 	DATA 	RATING 4	
+57.4719 	DATA 	*** MESSAGE:Key press 4 EVENT:rating_resp4 CODE:74 ***	
+57.9763 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+62.9823 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+65.6045 	DATA 	VIDEO START a2r15h.mp4 dur 13.59	
+65.6045 	DATA 	*** MESSAGE:Showing a2r15h.mp4 dur 13.59 EVENT:start_video CODE:60 ***	
+79.2306 	DATA 	*** EVENT:end_video CODE:61 ***	
+79.2319 	DATA 	VIDEO END a2r15h.mp4	
+79.2541 	DATA 	*** EVENT:get_rating CODE:70 ***	
+83.7112 	DATA 	Keypress: 4
+83.7113 	DATA 	RATING 4	
+83.7113 	DATA 	*** MESSAGE:Key press 4 EVENT:rating_resp4 CODE:74 ***	
+84.2161 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+89.2223 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+92.1024 	DATA 	VIDEO START a1r11n.mp4 dur 8.53	
+92.1024 	DATA 	*** MESSAGE:Showing a1r11n.mp4 dur 8.53 EVENT:start_video CODE:60 ***	
+100.6557 	DATA 	*** EVENT:end_video CODE:61 ***	
+100.6563 	DATA 	VIDEO END a1r11n.mp4	
+100.6750 	DATA 	*** EVENT:get_rating CODE:70 ***	
+103.9208 	DATA 	Keypress: 4
+103.9210 	DATA 	RATING 4	
+103.9210 	DATA 	*** MESSAGE:Key press 4 EVENT:rating_resp4 CODE:74 ***	
+104.4249 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+109.4272 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+111.7695 	DATA 	VIDEO START a1r10n.mp4 dur 12.38	
+111.7695 	DATA 	*** MESSAGE:Showing a1r10n.mp4 dur 12.38 EVENT:start_video CODE:60 ***	
+124.1714 	DATA 	*** EVENT:end_video CODE:61 ***	
+124.1717 	DATA 	VIDEO END a1r10n.mp4	
+124.1951 	DATA 	*** EVENT:get_rating CODE:70 ***	
+127.1901 	DATA 	Keypress: 4
+127.1902 	DATA 	RATING 4	
+127.1902 	DATA 	*** MESSAGE:Key press 4 EVENT:rating_resp4 CODE:74 ***	
+127.6942 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+132.6996 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+135.8868 	DATA 	VIDEO START a2d16h.mp4 dur 13.8	
+135.8868 	DATA 	*** MESSAGE:Showing a2d16h.mp4 dur 13.8 EVENT:start_video CODE:60 ***	
+149.7320 	DATA 	*** EVENT:end_video CODE:61 ***	
+149.7327 	DATA 	VIDEO END a2d16h.mp4	
+149.7510 	DATA 	*** EVENT:get_rating CODE:70 ***	
+152.4591 	DATA 	Keypress: 2
+152.4592 	DATA 	RATING 2	
+152.4592 	DATA 	*** MESSAGE:Key press 2 EVENT:rating_resp2 CODE:72 ***	
+152.9637 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+157.9725 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+160.2961 	DATA 	VIDEO START a1r12n.mp4 dur 11.35	
+160.2961 	DATA 	*** MESSAGE:Showing a1r12n.mp4 dur 11.35 EVENT:start_video CODE:60 ***	
+171.6585 	DATA 	*** EVENT:end_video CODE:61 ***	
+171.6589 	DATA 	VIDEO END a1r12n.mp4	
+171.6753 	DATA 	*** EVENT:get_rating CODE:70 ***	
+176.9990 	DATA 	Keypress: 3
+176.9991 	DATA 	RATING 3	
+176.9991 	DATA 	*** MESSAGE:Key press 3 EVENT:rating_resp3 CODE:73 ***	
+177.5032 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+182.5121 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+185.1559 	DATA 	VIDEO START a2d21h.mp4 dur 14.59	
+185.1559 	DATA 	*** MESSAGE:Showing a2d21h.mp4 dur 14.59 EVENT:start_video CODE:60 ***	
+199.7732 	DATA 	*** EVENT:end_video CODE:61 ***	
+199.7742 	DATA 	VIDEO END a2d21h.mp4	
+199.7944 	DATA 	*** EVENT:get_rating CODE:70 ***	
+204.5978 	DATA 	Keypress: 4
+204.5979 	DATA 	RATING 4	
+204.5979 	DATA 	*** MESSAGE:Key press 4 EVENT:rating_resp4 CODE:74 ***	
+205.1023 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+210.1190 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+212.8961 	DATA 	VIDEO START a1r09n.mp4 dur 13.8	
+212.8961 	DATA 	*** MESSAGE:Showing a1r09n.mp4 dur 13.8 EVENT:start_video CODE:60 ***	
+226.7059 	DATA 	*** EVENT:end_video CODE:61 ***	
+226.7065 	DATA 	VIDEO END a1r09n.mp4	
+226.7218 	DATA 	*** EVENT:get_rating CODE:70 ***	
+229.4966 	DATA 	Keypress: 4
+229.4968 	DATA 	RATING 4	
+229.4968 	DATA 	*** MESSAGE:Key press 4 EVENT:rating_resp4 CODE:74 ***	
+230.0012 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+235.0085 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+237.4632 	DATA 	VIDEO START a2r23h.mp4 dur 13.03	
+237.4633 	DATA 	*** MESSAGE:Showing a2r23h.mp4 dur 13.03 EVENT:start_video CODE:60 ***	
+250.5073 	DATA 	*** EVENT:end_video CODE:61 ***	
+250.5087 	DATA 	VIDEO END a2r23h.mp4	
+250.5259 	DATA 	*** EVENT:get_rating CODE:70 ***	
+253.2872 	DATA 	Keypress: 2
+253.2873 	DATA 	RATING 2	
+253.2873 	DATA 	*** MESSAGE:Key press 2 EVENT:rating_resp2 CODE:72 ***	
+253.7915 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+258.7976 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+261.6024 	DATA 	VIDEO START a2r22h.mp4 dur 11.71	
+261.6024 	DATA 	*** MESSAGE:Showing a2r22h.mp4 dur 11.71 EVENT:start_video CODE:60 ***	
+273.3271 	DATA 	*** EVENT:end_video CODE:61 ***	
+273.3274 	DATA 	VIDEO END a2r22h.mp4	
+273.3471 	DATA 	*** EVENT:get_rating CODE:70 ***	
+277.6460 	DATA 	Keypress: 4
+277.6461 	DATA 	RATING 4	
+277.6461 	DATA 	*** MESSAGE:Key press 4 EVENT:rating_resp4 CODE:74 ***	
+278.1505 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+283.1536 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+285.6174 	DATA 	VIDEO START a2r18h.mp4 dur 14.63	
+285.6174 	DATA 	*** MESSAGE:Showing a2r18h.mp4 dur 14.63 EVENT:start_video CODE:60 ***	
+300.2521 	DATA 	*** EVENT:end_video CODE:61 ***	
+300.2532 	DATA 	VIDEO END a2r18h.mp4	
+300.2702 	DATA 	*** EVENT:get_rating CODE:70 ***	
+303.2756 	DATA 	Keypress: 4
+303.2757 	DATA 	RATING 4	
+303.2757 	DATA 	*** MESSAGE:Key press 4 EVENT:rating_resp4 CODE:74 ***	
+303.7797 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+308.7937 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+311.2547 	DATA 	VIDEO START a1d15n.mp4 dur 8.7	
+311.2547 	DATA 	*** MESSAGE:Showing a1d15n.mp4 dur 8.7 EVENT:start_video CODE:60 ***	
+319.9862 	DATA 	*** EVENT:end_video CODE:61 ***	
+319.9873 	DATA 	VIDEO END a1d15n.mp4	
+320.0035 	DATA 	*** EVENT:get_rating CODE:70 ***	
+325.6854 	DATA 	Keypress: 3
+325.6855 	DATA 	RATING 3	
+325.6855 	DATA 	*** MESSAGE:Key press 3 EVENT:rating_resp3 CODE:73 ***	
+326.1900 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+331.1987 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+333.8100 	DATA 	VIDEO START a1d10n.mp4 dur 13.95	
+333.8100 	DATA 	*** MESSAGE:Showing a1d10n.mp4 dur 13.95 EVENT:start_video CODE:60 ***	
+347.7641 	DATA 	*** EVENT:end_video CODE:61 ***	
+347.7643 	DATA 	VIDEO END a1d10n.mp4	
+347.7823 	DATA 	*** EVENT:get_rating CODE:70 ***	
+351.6937 	DATA 	Keypress: 4
+351.6938 	DATA 	RATING 4	
+351.6939 	DATA 	*** MESSAGE:Key press 4 EVENT:rating_resp4 CODE:74 ***	
+352.1981 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+357.2052 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+359.7509 	DATA 	VIDEO START a1d11n.mp4 dur 12.33	
+359.7510 	DATA 	*** MESSAGE:Showing a1d11n.mp4 dur 12.33 EVENT:start_video CODE:60 ***	
+372.1248 	DATA 	*** EVENT:end_video CODE:61 ***	
+372.1259 	DATA 	VIDEO END a1d11n.mp4	
+372.1463 	DATA 	*** EVENT:get_rating CODE:70 ***	
+375.6038 	DATA 	Keypress: 4
+375.6039 	DATA 	RATING 4	
+375.6039 	DATA 	*** MESSAGE:Key press 4 EVENT:rating_resp4 CODE:74 ***	
+376.1083 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+381.1114 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+383.7469 	DATA 	VIDEO START a2d18h.mp4 dur 13.12	
+383.7469 	DATA 	*** MESSAGE:Showing a2d18h.mp4 dur 13.12 EVENT:start_video CODE:60 ***	
+396.8789 	DATA 	*** EVENT:end_video CODE:61 ***	
+396.8799 	DATA 	VIDEO END a2d18h.mp4	
+396.9016 	DATA 	*** EVENT:get_rating CODE:70 ***	
+399.0927 	DATA 	Keypress: 3
+399.0928 	DATA 	RATING 3	
+399.0929 	DATA 	*** MESSAGE:Key press 3 EVENT:rating_resp3 CODE:73 ***	
+399.5984 	DATA 	*** MESSAGE:Fixation 5.0 secs EVENT:start_fixation CODE:20 ***	
+404.6002 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+407.3144 	DATA 	VIDEO START a1d12n.mp4 dur 13.33	
+407.3145 	DATA 	*** MESSAGE:Showing a1d12n.mp4 dur 13.33 EVENT:start_video CODE:60 ***	
+420.6697 	DATA 	*** EVENT:end_video CODE:61 ***	
+420.6704 	DATA 	VIDEO END a1d12n.mp4	
+420.6874 	DATA 	*** EVENT:get_rating CODE:70 ***	
+422.7828 	DATA 	Keypress: 3
+422.7830 	DATA 	RATING 3	
+422.7830 	DATA 	*** MESSAGE:Key press 3 EVENT:rating_resp3 CODE:73 ***	
+423.2871 	DATA 	*** MESSAGE:Fixation 10.0 secs EVENT:start_fixation CODE:20 ***	
+433.2928 	DATA 	*** EVENT:end_fixation CODE:21 ***	
+433.2934 	DATA 	*** EVENT:end_task CODE:11 ***	

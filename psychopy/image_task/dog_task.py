@@ -27,7 +27,11 @@ import random
 
 # 2. setup logging
 
-log_path = os.path.join('logs','dog_task_test.log')
+LOG_DIR = 'logs'
+if not os.path.exists(LOG_DIR):
+    os.makedirs(LOG_DIR)
+
+log_path = os.path.join(LOG_DIR,'dog_task_test.log')
 
 logger = logging.LogFile(log_path, filemode='w')
 logger.setLevel(logging.DEBUG)

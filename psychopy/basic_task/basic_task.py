@@ -27,7 +27,7 @@ if not os.path.exists(LOG_DIR):
     os.makedirs(LOG_DIR)
     
 
-words = ['hello', 'there', 'how', 'are', 'you']
+words = ['happy', 'organized', 'sad', 'fun', 'unreliable']
 
 
 
@@ -38,12 +38,12 @@ logger.setLevel(logging.DEBUG)
 
 # ----- define window and stimuli
 
-win = visual.Window(monitor='testMonitor', fullscr=True, units='deg')
+win = visual.Window(monitor='testMonitor', fullscr=False, units='deg')
 
 textStim = visual.TextStim(win, height=2)
 respStim_y = visual.TextStim(win, text='yes', pos=(-5,-5))
 respStim_n = visual.TextStim(win, text='no', pos=(5, -5))
-condStim = visual.TextStim(win, text='COND', pos=(0,6), height=1.8)
+condStim = visual.TextStim(win, text='CONDITION', pos=(0,6), height=1.8)
 
 
 trial_clock = core.Clock()
@@ -76,7 +76,7 @@ for word in words:
     
         resp = event.getKeys(keyList=['1','2'])
         
-        if len(resp)>0:
+        if len(resp)>0 and no_resp:
             
             no_resp = False
             
@@ -90,9 +90,7 @@ for word in words:
             if resp[0]=='2':
                 respStim_n.setColor('red')
                 
-    logging.log('{} responses made: {}'.format(len(responses), responses),
-                logging.DATA
-    )
+    logging.log('{} responses made: {}'.format(len(responses), responses), logging.DATA)
 
 
 # tidy up at the end

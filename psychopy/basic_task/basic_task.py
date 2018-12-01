@@ -58,7 +58,9 @@ for word in words:
     respStim_n.setColor('white')
     respStim_y.setColor('white')
     
-    made_resp = False
+    no_resp = True
+    
+    responses = []
     
     textStim.setText(word)
     logging.log('Set stim to: {}'.format(word), logging.DATA)
@@ -74,9 +76,11 @@ for word in words:
     
         resp = event.getKeys(keyList=['1','2'])
         
-        if len(resp)>0 and not made_resp:
+        if len(resp)>0:
             
-            made_resp = True
+            no_resp = False
+            
+            responses.append(resp[0])
             
             logging.log('RATING WAS {}'.format(resp), logging.DATA)
             
@@ -86,14 +90,9 @@ for word in words:
             if resp[0]=='2':
                 respStim_n.setColor('red')
                 
-                
-    #core.wait(2.0)
-    
-    
-    
-    
-
-
+    logging.log('{} responses made: {}'.format(len(responses), responses),
+                logging.DATA
+    )
 
 
 # tidy up at the end
